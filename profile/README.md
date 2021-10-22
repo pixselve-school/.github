@@ -1,12 +1,6 @@
-## Hi there 👋
+# 📚 Find all my school projects in one place
 
-<!--
+## Education
+2019 - 2024 : ESIR - Ecole Supérieure d'ingénieurs de Rennes
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+2016 - 2019 : General and Technological High School Anita Conti
